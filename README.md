@@ -21,6 +21,8 @@
 * Finding start of the loop
   * [1] Page 79
   * http://umairsaeed.com/blog/2011/06/23/finding-the-start-of-a-loop-in-a-circular-linked-list/
+* Dynamic Programming
+  * [1] Page 416
   
   
 [1] Data Structure And Algorithmic Thinking Using Python (Book)
